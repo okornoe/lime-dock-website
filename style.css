@@ -76,6 +76,7 @@ nav {
     height: 80vh;
     background-size: cover;
     position: relative;
+    background-image: url("img/petroleum-transport.jpg");
 }
 
 .mission {
@@ -119,11 +120,13 @@ nav {
 }
 
 .title-heading {
+    margin-top: 50px;
     padding: 10px;
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 10rem;
     color: rgba(0,0,0,0.7);
+    font-family: 'Aldrich', sans-serif;
 }
 
 .title-heading h3 {
@@ -145,7 +148,7 @@ nav {
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
     grid-gap: 2.5rem;
     background-color: rgb(248, 249, 250);
-    padding: 30px;
+    padding: 100px;
 }
 
 .activities-grid-item:hover {
