@@ -76,7 +76,7 @@ nav {
     height: 80vh;
     background-size: cover;
     position: relative;
-    background-image: url("img/petroleum-transport.jpg");
+    background-image: url("../img/petroleum-transport.jpg");
 }
 
 .mission {
